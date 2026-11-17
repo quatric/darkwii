@@ -1,0 +1,856 @@
+{
+ "themes": [
+  {
+   "name": "DarkBlue",
+   "accent": "#3b63e0",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/DarkBlue_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.5,
+      "sha": "9dc9fa5079a511ae693349bc387e051c34bc24662ee1511e732fece5329ae7d7"
+     },
+     "mym": {
+      "file": "downloads/mym/DarkBlue_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.7,
+      "sha": "65c1bab408558a7aa6af60c5cca36d28ae81b656ff9ffc7b7f07e5033b64773d"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/DarkBlue_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.3,
+      "sha": "84bbddef0acbe9be5d98656ba3169deb0a7b032b7fc0c8131854c8d85bc3bda4"
+     },
+     "mym": {
+      "file": "downloads/mym/DarkBlue_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 1.8,
+      "sha": "fa68b408ace090c0fa9df25269c9db1fcf4c69553cdf60fab9b9b7cbad95a092"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/DarkBlue_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.4,
+      "sha": "8f9ec9f9957bbed6e9c6695990892648b39acbf0fdd8298f4901f0c0a2866b81"
+     },
+     "mym": {
+      "file": "downloads/mym/DarkBlue_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 1.8,
+      "sha": "b3e70194cf32130a677becfee823c352cd23055cbab2f45b4586a412933ae43a"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/DarkBlue_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.3,
+      "sha": "5c34f5c3c296a867b078287f9f45a58ff115857e1f52a3069503eaa932a98667"
+     },
+     "mym": {
+      "file": "downloads/mym/DarkBlue_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.7,
+      "sha": "46398206c3925fb403c10d8ce2d5e173ae2f531aa39b0eec2962beded7e26b46"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Piink",
+   "accent": "#ea70bf",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/Piink_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.5,
+      "sha": "3d0549d18447382a80fc95320f2989c3b7ea40e4884227d0c482dcda51f38497"
+     },
+     "mym": {
+      "file": "downloads/mym/Piink_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.7,
+      "sha": "d537a5f9cf31966e16ccc90d9354c4f690e279d25c1995395d7098ef14e5d73a"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/Piink_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.3,
+      "sha": "7fb7f490c1c9c759a6ebf13d565342472aafefb8b6f50fd035a4514569d69496"
+     },
+     "mym": {
+      "file": "downloads/mym/Piink_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 1.8,
+      "sha": "b171339d0c81e35b7af61aef07a2f93e1c8ac0491c0c9acbfdcc44be34eafff9"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/Piink_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.4,
+      "sha": "d02a5d22cd2ad7094b31909277614f8966d309e22e18101ec87d1ea013e73fb4"
+     },
+     "mym": {
+      "file": "downloads/mym/Piink_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 1.9,
+      "sha": "e0757d6bb8ce0e45c3bbc6420477d3021f8ba557d0500b987c4bdbc24a3eeb16"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/Piink_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.3,
+      "sha": "36ab77f93962c1f99a9a2a3f125a51619f763265444cc1901df0b1cf9ab7b8f1"
+     },
+     "mym": {
+      "file": "downloads/mym/Piink_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.7,
+      "sha": "735a993511d332dea4e9d3f536a501bace9e7b118e26a2c6db8b9c13674593d5"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Red",
+   "accent": "#e6293f",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/Red_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.5,
+      "sha": "e8c919f2b28f9d2f4bbcb2420b1ad912513183b6cdf885f325d7c2132413d314"
+     },
+     "mym": {
+      "file": "downloads/mym/Red_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.7,
+      "sha": "fa3cfe0621e23a11ba91424815904c983e18ad4992c4578f6cf3ff8611489057"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/Red_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.3,
+      "sha": "522d536967fb60787ba429b24810b3b87f14b383895811fd5119ce4054d113dc"
+     },
+     "mym": {
+      "file": "downloads/mym/Red_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 1.8,
+      "sha": "03343a71377640a9d4fe3756921e9c8c665533f128f2bcb137583676f3e0a3f4"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/Red_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.4,
+      "sha": "c95688c1088b84d0ac6533de19b820aeeb0cbaac402376a19da9e1cc0e8df71f"
+     },
+     "mym": {
+      "file": "downloads/mym/Red_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 1.8,
+      "sha": "d5207467c516945d002c192c35a20c33a64fc530ac3025a4f9c53da9ea5e2ac1"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/Red_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.3,
+      "sha": "62851422d7d177880190548cb5c5651c2c20b1a55952c5046d510b51b3e7ba04"
+     },
+     "mym": {
+      "file": "downloads/mym/Red_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.7,
+      "sha": "e47ac8f559818c1626fce6ea87a880d2ec9eab9c9eca39f243bf0b1142a10c45"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Orange",
+   "accent": "#f3680f",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/Orange_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.5,
+      "sha": "b8336bb7cc8d0defb65fee277c564aacc1e2ff9a408b430339fe4f96d4ceec30"
+     },
+     "mym": {
+      "file": "downloads/mym/Orange_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.7,
+      "sha": "1333c57912c42670493fd04502cc06ab80e13888145d394e7a0c28b0c0140d44"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/Orange_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.3,
+      "sha": "cf8eca6c265cc9bd2d3af70702e50d355f0ae571e1798b936641b831b4f5cc94"
+     },
+     "mym": {
+      "file": "downloads/mym/Orange_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 1.8,
+      "sha": "c87f02e4d49915f988574b7fe9e63f30958238d6cafb062b7d34fbe1f20a6c80"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/Orange_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.4,
+      "sha": "eb7e45addf9ed1cb3b589e4f069e7915a57a67c416bc0bc3365fd6c3a7807b47"
+     },
+     "mym": {
+      "file": "downloads/mym/Orange_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 1.8,
+      "sha": "050b524182bfa46faa0ddb176cd1725360eecaf56fcb98773061c4dd3bf2b1af"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/Orange_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.3,
+      "sha": "932202f76295b92875f666b669b27a1358b0d8f81df66c1b749eda1f72dd64a8"
+     },
+     "mym": {
+      "file": "downloads/mym/Orange_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.7,
+      "sha": "c739ee4ee643ea08879aee10ef39126fbdd5998cb8c964a8920351e6509b3e2f"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Yellow",
+   "accent": "#eeb318",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/Yellow_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.5,
+      "sha": "e2c6317a48d9858c948a936b41232b1a57588486b2d18b3d4dfdce3b0b5761cb"
+     },
+     "mym": {
+      "file": "downloads/mym/Yellow_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.7,
+      "sha": "2f7b1394c3ac875d6ef88e443da7ad10353d7a9a99d584b4ce7389a402d364b4"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/Yellow_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.3,
+      "sha": "2c18755aff96e463d017990ef1756553e7b858b5f3e433421e3b7ac993febbaa"
+     },
+     "mym": {
+      "file": "downloads/mym/Yellow_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 1.8,
+      "sha": "482b3c5ae0f0f1f8dc487f8812fdc9be5eeb04e0cd76625438d8590cf7567a3e"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/Yellow_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.4,
+      "sha": "4ec0637addb2a6c7d6d4a56078d148c3bfdbc1da1e5bf0cfe42e0403e0be52fd"
+     },
+     "mym": {
+      "file": "downloads/mym/Yellow_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 1.9,
+      "sha": "dc04d55a1fd31caf8372980dc5578e2cabc4408afd06d88af0358c26102ed377"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/Yellow_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.3,
+      "sha": "d73438e27eb59323c62424dc1446a6790ac115b847b8b54afb32eb004512578e"
+     },
+     "mym": {
+      "file": "downloads/mym/Yellow_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.7,
+      "sha": "354f521da794f4544e2dbf8a56928c8748514f95e5834fef7d894eb8c59293ce"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Lime",
+   "accent": "#a4e234",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/Lime_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.5,
+      "sha": "e7313d6bfeb8094f7aeea3bef0e959f68f1295044f7e152b13753c43389ba338"
+     },
+     "mym": {
+      "file": "downloads/mym/Lime_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.7,
+      "sha": "f5ad711c7f220f68bf51833b7d3442a8e998a2b881efc634e55460b05beb5ace"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/Lime_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.3,
+      "sha": "57442dd90e3832a409fece9e566f6d3f74fe2824512752c51a1bfdb8d5c30190"
+     },
+     "mym": {
+      "file": "downloads/mym/Lime_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 1.8,
+      "sha": "d4ff455adf4019a3c6d6ee5cb9e67a00180abf2ec7b17d067a93bb7c9dc2812f"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/Lime_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.4,
+      "sha": "16219926b73eb14b23840f5de47c46c7dbb6f73a652ce7cd31c33ce4b4e08f97"
+     },
+     "mym": {
+      "file": "downloads/mym/Lime_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 1.9,
+      "sha": "8268afc7d79392b1b1f890d13d6ddf1cf4233071f213b54fa18db3cfae41a522"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/Lime_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.3,
+      "sha": "bfb153381414aaa3616044f4ac428e82b4afdf522298bc84a9e9372c0a13804e"
+     },
+     "mym": {
+      "file": "downloads/mym/Lime_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.7,
+      "sha": "8ebbe7f98978f5bb4726ddc185eb1e202af1062bb30bab69845f5111cefe7198"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Green",
+   "accent": "#1a812f",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/Green_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.5,
+      "sha": "c06451e2785ea7a2067d21f3f667f13bae71b1c90a34aedf65f5707bdeb0da5e"
+     },
+     "mym": {
+      "file": "downloads/mym/Green_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.7,
+      "sha": "553688b1e54643e562640caeb2390984311fedabc08b9d96fd4f04f41feb6fa3"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/Green_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.3,
+      "sha": "6bdd305548d6096070cd1823dfadac438784d08f9ab12bfd45aba43b533c15a6"
+     },
+     "mym": {
+      "file": "downloads/mym/Green_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 1.8,
+      "sha": "67a7601d2081b46f3f3c9ab146a581dbd515157903736eb484668ca82b93f794"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/Green_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.4,
+      "sha": "41c0b146d7b9d7187df161e9daf6abe23c20701d3b3cdba5811ae58275c661c2"
+     },
+     "mym": {
+      "file": "downloads/mym/Green_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 1.9,
+      "sha": "83181aa2c0d17101403becb937e76bc8f916151cb242125791fcd168b6b071ec"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/Green_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.3,
+      "sha": "75dfccfc1dff337cc77bf4b048c94d963f2e850ef5c19cd8a0a0928d7119b0da"
+     },
+     "mym": {
+      "file": "downloads/mym/Green_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.7,
+      "sha": "17f2b84fb4c78e7ad273eeba9ca22152dfe2ec8f0bae2ffa9a47ca9333de0ea8"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Teal",
+   "accent": "#24a98a",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/Teal_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.5,
+      "sha": "62de8ffd1cf8a7018b542e6466b2b45d00d23552a01dcb10e17f02f61f5da1b7"
+     },
+     "mym": {
+      "file": "downloads/mym/Teal_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.7,
+      "sha": "73ae742b1cbfc8255932494e26f956b8cc17030fbdba69e66855fc98c5849961"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/Teal_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.3,
+      "sha": "964e42eaa2e227952e9248079bb6ac813059a7c0619810a9d0f8f8eda2b58f8d"
+     },
+     "mym": {
+      "file": "downloads/mym/Teal_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 1.8,
+      "sha": "1b429387261edf2dabd2373b36e311c65da47e125e2800d521775c6e7ebd286b"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/Teal_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.4,
+      "sha": "07a35cf9b35aef236a36273323fc152c0efa16fe2eb6b6bcbec230ef52d4af29"
+     },
+     "mym": {
+      "file": "downloads/mym/Teal_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 1.9,
+      "sha": "a1d6ce1fb1474a798689d73b4a433169fe26693764ee4dc3bb5d886bd52f300a"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/Teal_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.3,
+      "sha": "d210b06b37d2076de6cb52c7fbed7ea7a89e3865ab6d4b79a1e5b02b18cd31ea"
+     },
+     "mym": {
+      "file": "downloads/mym/Teal_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.7,
+      "sha": "66322ada1a7e23fc987abdcbacb27a98c849a8ca70428ca29050a343d5350884"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Purple",
+   "accent": "#9657e8",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/Purple_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.5,
+      "sha": "b669ff2315b74a84eca74d8a1d36a6f4898e9e8960cec2c07e2e16015636187b"
+     },
+     "mym": {
+      "file": "downloads/mym/Purple_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.7,
+      "sha": "fef057d37234fbc3a3b6079dec473dbaf061aede13083d5e2a6f364852d1331e"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/Purple_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.3,
+      "sha": "fe51859fb7e3f9a7bd2ab67dcf696f394111c6b121c1f0c6e10b1dacf9ada7ed"
+     },
+     "mym": {
+      "file": "downloads/mym/Purple_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 1.8,
+      "sha": "40f2aa10b8c374b910067d386ec4101ebb8de494f77890a2d667d2c9f5bc520e"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/Purple_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.4,
+      "sha": "11d64d1f846e5643f224052a5543cb33023fcfa7884fff6b51ee183fb95b9340"
+     },
+     "mym": {
+      "file": "downloads/mym/Purple_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 1.9,
+      "sha": "db0e5326079937af2d912a3eefec2ef5512c353e374baea883a1cf82c712f1c6"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/Purple_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.3,
+      "sha": "20873d9207a9e157c320b104d6259499b5671228228cb6948b13139ffe3b58b6"
+     },
+     "mym": {
+      "file": "downloads/mym/Purple_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.7,
+      "sha": "c6cd822538d0b8d3254386ab820b7a9ef1fa3beda7cca15be429104842673afd"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Brown",
+   "accent": "#77482f",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/Brown_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.5,
+      "sha": "398f5d1417d5a328a500c7d1f4f98b2dabc139456207f23b964eea41cc352f52"
+     },
+     "mym": {
+      "file": "downloads/mym/Brown_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.7,
+      "sha": "07212c125d5345b59fdad1f2c743380fab439f5a67085756c5fce6906c85bd1c"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/Brown_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.2,
+      "sha": "e20737eb3e9cafd22e75b53956599c409e9d814747e40720c06c179bbd6e3be9"
+     },
+     "mym": {
+      "file": "downloads/mym/Brown_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 1.8,
+      "sha": "b4b1163734509f18821fe5842849b2f62eeead27bc1cdbe61719923d33eaa787"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/Brown_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.4,
+      "sha": "f2631d35a7055220b514ca3063ba52b0f86c6c751e1fc249c6c5a3aed3988d48"
+     },
+     "mym": {
+      "file": "downloads/mym/Brown_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 1.9,
+      "sha": "7e4f249c9f0dc8a49dbd98d8e864a3c7c63ea99ff5d0110268a3a071e320694d"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/Brown_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.3,
+      "sha": "78cfb508cd15ca93dc0bc2356e92665be6cd73eebf528e015d359f5081ef50f0"
+     },
+     "mym": {
+      "file": "downloads/mym/Brown_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.7,
+      "sha": "f85536c0f482b6d8a4d22b4d5186a8851c9d8a33c1711da0b5a635213e7f9bdb"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Silver",
+   "accent": "#868686",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/Silver_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.4,
+      "sha": "57e79e9b2a8df6a63ce9be457668b9c5ea7def24cf3050117c9a1649e15f30a8"
+     },
+     "mym": {
+      "file": "downloads/mym/Silver_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.6,
+      "sha": "5021568aa62da0312c093e30f0276ea552603c10288063021ff73138d5378f1a"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/Silver_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.2,
+      "sha": "9f0b86ff1d4855adfb8f0f2422b4a0a678f7e8d58225745850be1767a10e9dfe"
+     },
+     "mym": {
+      "file": "downloads/mym/Silver_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 1.7,
+      "sha": "94d3200c619c4f4ae9b4f4c51bca26317b5b5c372ee40993fd614bc77ff6a33d"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/Silver_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.3,
+      "sha": "3f3b04480ac140cc7350a9ad925b89d56919008e3f37891ac3f627784927c1d6"
+     },
+     "mym": {
+      "file": "downloads/mym/Silver_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 1.7,
+      "sha": "d4be85334abada0f774a47340ee57974fa69b62d16d08eafb637d896fa68de77"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/Silver_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.2,
+      "sha": "49b9aad3f6983fcd0fd155c4316c276241c67fbc87a62ef40b6d927e78218b0d"
+     },
+     "mym": {
+      "file": "downloads/mym/Silver_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.6,
+      "sha": "6bf18fdabdaf218c931ca2e10410a902de67f7e23b78bcf42b9e5a350efe0da9"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Black",
+   "accent": "#333333",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/Black_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.4,
+      "sha": "7a3eb8f5f0c4753de14d8af9389b8bfe94a3116393c7d42a9b4f81ee0355f179"
+     },
+     "mym": {
+      "file": "downloads/mym/Black_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.7,
+      "sha": "2e7f239a41a5a5a3ea5266af06e843b1ea69ce667fbeb525676caeb53576759b"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/Black_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.2,
+      "sha": "29b0821573ece11bb85ecd249d31ea40b8050dad55276057d62238028bd08ebf"
+     },
+     "mym": {
+      "file": "downloads/mym/Black_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 1.7,
+      "sha": "cfd909604a33d55dfa74f844a719c7dc4eee11e176a6df45920504178a487c39"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/Black_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.4,
+      "sha": "43d354b1da6c783f638f2be4d47175726451ae6e585ac00514a427fbc71b7aa4"
+     },
+     "mym": {
+      "file": "downloads/mym/Black_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 1.8,
+      "sha": "6c711d84309a56f6fc6a1acd7e10f66ed223bf16003d7b4307b2c677555db50b"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/Black_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.3,
+      "sha": "3248eeeef733d89e6bac198560874a7c79093763c4d743dbc16caf86d512c510"
+     },
+     "mym": {
+      "file": "downloads/mym/Black_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.7,
+      "sha": "22cce614f2efb7ee70051e4e8c879162753f2e4dc7aa2f54cf5f2039d47a89f3"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Rainbow",
+   "accent": "#e0446a",
+   "files": [
+    {
+     "r": "U",
+     "name": "USA",
+     "csm": {
+      "file": "downloads/csm/Rainbow_DarkWiiReimagined.4.3U.v1.0.csm",
+      "mb": 7.6,
+      "sha": "4d06f3b3971be5b9ed435c4af5d5a85dd44ab5192cc4161e18319444d44ab14c"
+     },
+     "mym": {
+      "file": "downloads/mym/Rainbow_DarkWiiReimagined.4XU.v1.0.mym",
+      "mb": 1.9,
+      "sha": "c7682ad5419811a39992d94e1bab97682b40d99863712812b7ba293275f420d1"
+     }
+    },
+    {
+     "r": "E",
+     "name": "Europe",
+     "csm": {
+      "file": "downloads/csm/Rainbow_DarkWiiReimagined.4.3E.v1.0.csm",
+      "mb": 8.4,
+      "sha": "0eb66be680550f2cf8fc17bc563f3638a8eefea38317fc838cfa8d89ff467080"
+     },
+     "mym": {
+      "file": "downloads/mym/Rainbow_DarkWiiReimagined.4XE.v1.0.mym",
+      "mb": 2.0,
+      "sha": "c99392f9cec3ed29bc6432b9c1294a0a11a4a8625ed09bfb2033071ed2037530"
+     }
+    },
+    {
+     "r": "J",
+     "name": "Japan",
+     "csm": {
+      "file": "downloads/csm/Rainbow_DarkWiiReimagined.4.3J.v1.0.csm",
+      "mb": 7.6,
+      "sha": "4d2ec92f45d1f1a85fa6d0f67ff3b8ea4f6bbac778fc6b11422e5ee73bc372aa"
+     },
+     "mym": {
+      "file": "downloads/mym/Rainbow_DarkWiiReimagined.4XJ.v1.0.mym",
+      "mb": 2.1,
+      "sha": "c5e93da35c802f95b970dc08eb92a12f7ca5e659dd88d5092f70930303ece307"
+     }
+    },
+    {
+     "r": "K",
+     "name": "Korea",
+     "csm": {
+      "file": "downloads/csm/Rainbow_DarkWiiReimagined.4.3K.v1.0.csm",
+      "mb": 7.4,
+      "sha": "739b765059c5fdb63f4d37a2380d0fdbe8983ba45744ba5f1a2a65bda1c55a1b"
+     },
+     "mym": {
+      "file": "downloads/mym/Rainbow_DarkWiiReimagined.4XK.v1.0.mym",
+      "mb": 1.9,
+      "sha": "6dcce07a7b46fb78d915863c71b2724492964ae061383b199f0fc576f4d9277f"
+     }
+    }
+   ]
+  }
+ ],
+ "shots": [
+  [
+   "menu",
+   "Wii Menu"
+  ],
+  [
+   "disc-channel",
+   "Disc Channel"
+  ],
+  [
+   "home-menu",
+   "HOME Menu"
+  ],
+  [
+   "wii-options",
+   "Wii options"
+  ],
+  [
+   "wii-settings",
+   "Wii Settings"
+  ],
+  [
+   "data-management",
+   "Data Management"
+  ],
+  [
+   "sd-card",
+   "SD Card Menu"
+  ],
+  [
+   "message-board",
+   "Message Board"
+  ],
+  [
+   "board-create",
+   "New message"
+  ],
+  [
+   "memo",
+   "Memo"
+  ],
+  [
+   "keyboard",
+   "Keyboard"
+  ]
+ ]
+}
